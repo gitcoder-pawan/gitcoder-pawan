@@ -1,7 +1,5 @@
 ### Hi there, I'm Pawan Kumar 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Responsive Website
 - 🌱 I’m currently learning Web Development and Competitive Programming
 - 👯 I’m looking to collaborate on e-commerce website
