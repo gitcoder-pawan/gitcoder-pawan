@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Responsive Website
 - 🌱 I’m currently learning Web Development and Competitive Programming
 - 👯 I’m looking to collaborate on e-commerce website
-- 💬 Ask me about Python and Frontend
+- 💬 Ask me about Reactjs and Ruby on Rails
 - 📫 How to reach me:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Love to play Cricket.
